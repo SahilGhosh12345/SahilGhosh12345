@@ -1,14 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://oshi-raghav-portfolio.netlify.app)</br>
 <h1 align="center">Hi 👋, I'm Sahil Ghosh</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate Fullstack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br>
 - 🌱 I’ve completed my learning in **React Js, MERN Stack Development**
 - 🌱 I’m currently learning **Devops**
 - 👨‍💻 More projects are still in development phase....
 - 💬 Ask me about **MERN Stack, Backend Frameworks, and Web Server Hosting Platforms**
 - 📫 How to reach me: **gnxsahilyt@gmail.com**
 
+<br>
+<br>
 <h3 align="left">Currently, I have started my journey in Data Structures and Algorithms and Competitive Programming. If you want to join, let's connect! 👯</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <h3 align="left">Connect with me:</h3>
