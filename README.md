@@ -8,6 +8,7 @@
 - 👨‍💻 More projects are still in development phase....
 - 💬 Ask me about **MERN Stack, Backend Frameworks, and Web Server Hosting Platforms**
 - 📫 How to reach me: **gnxsahilyt@gmail.com**
+- ⚡ Fun fact **I love doing coding, reading comics and gaming**
 
 <br>
 <br>
