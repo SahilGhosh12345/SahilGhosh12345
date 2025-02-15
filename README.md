@@ -9,6 +9,8 @@
 - 💬 Ask me about **MERN Stack, Backend Frameworks, and Web Server Hosting Platforms**
 - 📫 How to reach me: **gnxsahilyt@gmail.com**
 
+<h3 align="left">Currently, I have started my journey in Data Structures and Algorithms and Competitive Programming. If you want to join, let's connect! 👯</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahilghosh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilghosh123" height="30" width="40" /></a>
